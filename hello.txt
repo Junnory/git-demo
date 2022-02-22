@@ -14,5 +14,3 @@ hello git!
 
 hello git!
 context of second commit
-context of third commit
-context of hot-fix
